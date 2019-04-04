@@ -1,0 +1,25 @@
+{
+  "name": "@joyshion/react-native-action-sheet",
+  "version": "1.0.0",
+  "description": "ActionSheet for Android & iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "action-sheet",
+    "action",
+    "sheet"
+  ],
+  "author": "Shion <shion.chow@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "homepage": "https://github.com/joyshion/react-native-action-sheet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joyshion/react-native-action-sheet"
+  }
+}
